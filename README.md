@@ -31,8 +31,8 @@ Este projeto foi desenvolvido durante o evento "IA na Prática" da Rocketseat e 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/LuanPetruitis/stock-analysis-crewai.git
+   cd stock-analysis-crewai
    ```
 
 2. Instale as dependências:
