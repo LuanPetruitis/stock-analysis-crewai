@@ -3,6 +3,8 @@
 
 Este projeto foi desenvolvido durante o evento "IA na Prática" da Rocketseat e utiliza técnicas de Inteligência Artificial para análise de preços de ações, tendências de mercado e notícias relevantes. A aplicação combina várias ferramentas e bibliotecas para fornecer uma análise completa e automatizada do mercado financeiro.
 
+![App Screenshot](./image.png)
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal.
@@ -29,8 +31,8 @@ Este projeto foi desenvolvido durante o evento "IA na Prática" da Rocketseat e 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/LuanPetruitis/stock-analysis-crewai.git
-   cd stock-analysis-crewai
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
    ```
 
 2. Instale as dependências:
